@@ -150,7 +150,7 @@ This project is licensed under the MIT License. You are free to modify and distr
 For questions, feedback, or support, feel free to reach out!
 Author: Tejas Barguje Patil
 
-<p align="left"> <a href="https://www.instagram.com/tejasbargujepatil" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.instagram.com/Tejas_Barguje_Patil" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> 
  
   <a href="mailto:tejasbarguje9@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/> </a> </p>
 
